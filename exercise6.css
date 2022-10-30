@@ -1,0 +1,14 @@
+html{
+    font-size: 16px;
+}
+.intro{
+    font-size: 18px;
+    color:#ffc700;
+    max-width: 900px;
+    width: 500px;
+    padding: 48px;
+    background-color:#18354a;
+    border:1px solid lightgray;
+    margin: 32px auto;
+    box-sizing: border-box;
+}
